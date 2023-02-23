@@ -1,0 +1,16 @@
+C:\Users\ac30d\workspace\RockPaperScissorsC#\obj\Debug\net5.0\RockPaperScissorsC#.csproj.AssemblyReference.cache
+C:\Users\ac30d\workspace\RockPaperScissorsC#\obj\Debug\net5.0\RockPaperScissorsC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ac30d\workspace\RockPaperScissorsC#\obj\Debug\net5.0\RockPaperScissorsC#.AssemblyInfoInputs.cache
+C:\Users\ac30d\workspace\RockPaperScissorsC#\obj\Debug\net5.0\RockPaperScissorsC#.AssemblyInfo.cs
+C:\Users\ac30d\workspace\RockPaperScissorsC#\obj\Debug\net5.0\RockPaperScissorsC#.csproj.CoreCompileInputs.cache
+C:\Users\ac30d\workspace\RockPaperScissorsC#\bin\Debug\net5.0\RockPaperScissorsC#.exe
+C:\Users\ac30d\workspace\RockPaperScissorsC#\bin\Debug\net5.0\RockPaperScissorsC#.deps.json
+C:\Users\ac30d\workspace\RockPaperScissorsC#\bin\Debug\net5.0\RockPaperScissorsC#.runtimeconfig.json
+C:\Users\ac30d\workspace\RockPaperScissorsC#\bin\Debug\net5.0\RockPaperScissorsC#.runtimeconfig.dev.json
+C:\Users\ac30d\workspace\RockPaperScissorsC#\bin\Debug\net5.0\RockPaperScissorsC#.dll
+C:\Users\ac30d\workspace\RockPaperScissorsC#\bin\Debug\net5.0\ref\RockPaperScissorsC#.dll
+C:\Users\ac30d\workspace\RockPaperScissorsC#\bin\Debug\net5.0\RockPaperScissorsC#.pdb
+C:\Users\ac30d\workspace\RockPaperScissorsC#\obj\Debug\net5.0\RockPaperScissorsC#.dll
+C:\Users\ac30d\workspace\RockPaperScissorsC#\obj\Debug\net5.0\ref\RockPaperScissorsC#.dll
+C:\Users\ac30d\workspace\RockPaperScissorsC#\obj\Debug\net5.0\RockPaperScissorsC#.pdb
+C:\Users\ac30d\workspace\RockPaperScissorsC#\obj\Debug\net5.0\RockPaperScissorsC#.genruntimeconfig.cache
