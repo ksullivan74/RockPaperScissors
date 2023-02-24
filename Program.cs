@@ -46,9 +46,10 @@ class Program
     {
 
 
-        // Array of options for the computer to choose from
-        string[] options =
+        // Object of options for the computer to choose from
+        List<string> options = new List<string>()
         { "rock", "paper", "scissors" };
+
 
         // Random number generator for the computer's choice
         Random rand = new Random();
@@ -75,7 +76,7 @@ class Program
             }
 
             // Computer chooses a random option
-            int computerIndex = rand.Next(options.Length);
+            int computerIndex = rand.Next(options.Count);
             string computerChoice = options[computerIndex];
 
             // Print the choices
